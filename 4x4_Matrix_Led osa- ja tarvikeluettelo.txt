@@ -1,0 +1,17 @@
+4x4 Matrix_Led_Shield komponentit ja tarvittava materiaali (kotitekoinen)
+
+pintaliitosvastus 0805: 82ohm   16kpl
+pintaliitosled P-LCC-2 valkoinen 1800mcd  16kpl
+sulkeutuva kalvokytkin, pintaliitos IP67  2kpl
+1-rivinen piikkirima 1x40 R2,54  1kpl
+2-puoleinen kuparilevy
+ferrikloridi syövytykseen
+lasertulostin+valokuvapaperia
+asetoni
+silitysrauta
+juotoskolvi / kuumailmapuhallin
+tina+juoksute (suositus)
+juotospiikki 1mm reikään  16kpl
+poranterät 0.9mm ja 1mm
+arduino uno  1kpl
+usb a-b kaapeli
